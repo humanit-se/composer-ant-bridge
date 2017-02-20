@@ -17,3 +17,9 @@ Call:
 ```
 composer run-script antbuilder
 ```
+
+If your Ant build-files has a specific target you want to trigger, you can pass that as an argument:
+
+```
+composer run-script antbuilder -- prod
+```
