@@ -1,0 +1,14 @@
+{
+    "name": "humait/composer-ant-bridge",
+    "description": "Composer script that runs Ant build-script for installed packages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jamie Telin",
+            "email": "jamie.telin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"ComposerAntBridge\\": "src/ComposerAntBridge"}
+    }
+}
