@@ -1,5 +1,5 @@
 {
-    "name": "humait/composer-ant-bridge",
+    "name": "humait-se/composer-ant-bridge",
     "description": "Composer script that runs Ant build-script for installed packages",
     "license": "MIT",
     "authors": [
